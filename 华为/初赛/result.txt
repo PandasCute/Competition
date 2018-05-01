@@ -1,0 +1,13 @@
+142
+flavor1 28
+flavor2 42
+flavor4 10
+flavor5 28
+flavor8 33
+
+General 5
+General-1 flavor1 15 flavor2 11 flavor5 9 flavor8 3
+General-2 flavor1 3 flavor2 9 flavor5 4 flavor8 9
+General-3 flavor1 5 flavor2 7 flavor4 4 flavor5 6 flavor8 6
+General-4 flavor1 3 flavor2 3 flavor4 3 flavor5 6 flavor8 8
+General-5 flavor1 2 flavor2 12 flavor4 3 flavor5 3 flavor8 7
